@@ -2,9 +2,9 @@
 
 ## How to Run:
 
-Unzip the file,
-
 ```
+git clone 
+cd OOD-Final
 java -jar Grading\ System.jar
 ```
 
