@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OOD-Final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OOD_Final_jar</output-path>
+    <root id="archive" name="OOD-Final.jar">
+      <element id="module-output" name="OOD-Final" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
