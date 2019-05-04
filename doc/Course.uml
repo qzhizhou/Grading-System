@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>course.Course</OriginalElement>
+  <nodes>
+    <node x="894.4166666666666" y="11.0">course.Analysis</node>
+    <node x="0.0" y="288.0">course.CriComp</node>
+    <node x="626.0277777777778" y="0.0">course.IO</node>
+    <node x="0.0" y="660.0">course.ReadRawData</node>
+    <node x="680.0" y="178.0">course.Course</node>
+    <node x="250.99999999999994" y="123.0">course.Criterion</node>
+    <node x="282.38194444444446" y="22.0">java.io.Serializable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="course.Course" target="course.Analysis">
+      <point x="112.33333333333337" y="-191.0" />
+      <point x="960.8333333333333" y="103.0" />
+      <point x="989.9166666666666" y="103.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="course.Criterion" target="java.io.Serializable">
+      <point x="-102.24999999999994" y="-246.0" />
+      <point x="353.25" y="103.0" />
+      <point x="339.38194444444446" y="103.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="course.CriComp" target="java.io.Serializable">
+      <point x="0.0" y="-81.0" />
+      <point x="115.5" y="103.0" />
+      <point x="301.38194444444446" y="103.0" />
+      <point x="-38.0" y="14.5" />
+    </edge>
+    <edge source="course.Course" target="java.io.Serializable">
+      <point x="-112.33333333333326" y="-191.0" />
+      <point x="736.1666666666667" y="93.0" />
+      <point x="377.38194444444446" y="93.0" />
+      <point x="38.0" y="14.5" />
+    </edge>
+    <edge source="course.Course" target="course.IO">
+      <point x="0.0" y="-191.0" />
+      <point x="848.5" y="103.0" />
+      <point x="791.0277777777778" y="103.0" />
+      <point x="55.0" y="36.5" />
+    </edge>
+    <edge source="course.Criterion" target="course.IO">
+      <point x="102.25000000000006" y="-246.0" />
+      <point x="557.75" y="103.0" />
+      <point x="681.0277777777778" y="103.0" />
+      <point x="-55.0" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="536.0" y="434.0" />
+  <SelectedNodes>
+    <node>course.Criterion</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>public</VISIBILITY>
+</Diagram>
+

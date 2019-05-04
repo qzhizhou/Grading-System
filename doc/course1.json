@@ -1,0 +1,150 @@
+[
+  {
+    "course" : "this is the course field",
+    "name" : "math",
+    "id" : "123",
+    "semester" : "fall",
+    "year" : "2019"
+  },
+  {
+    "criterion" : "this is the criterion field",
+    "name" : "math_criterion",
+    "category" : [
+      {
+        "name" : "Assignment",
+        "weight" : 0.5,
+        "number" : 3
+      },
+      {
+        "name" : "Exam",
+        "weight" : 0.5,
+        "number" : 2
+      }
+    ]
+  },
+  {
+    "student" : [
+      {
+        "name" : "tom",
+        "id" : "123",
+        "email" : "tom@email.com",
+        "type" : "graduate",
+        "gradeOfAssignment1" : "90",
+        "gradeOfAssignment2" : "70",
+        "gradeOfAssignment3" : "80",
+        "gradeOfExam1" : "60",
+        "gradeOfExam2" : "80"
+      },
+      {
+        "name" : "tim",
+        "id" : "124",
+        "email" : "tim@email.com",
+        "type" : "graduate",
+        "gradeOfAssignment1" : "90",
+        "gradeOfAssignment2" : "50",
+        "gradeOfAssignment3" : "60",
+        "gradeOfExam1" : "80",
+        "gradeOfExam2" : "100"
+      },
+      {
+        "name" : "jack",
+        "id" : "125",
+        "email" : "jack@email.com",
+        "type" : "graduate",
+        "gradeOfAssignment1" : "100",
+        "gradeOfAssignment2" : "100",
+        "gradeOfAssignment3" : "100",
+        "gradeOfExam1" : "100",
+        "gradeOfExam2" : "100"
+      },
+      {
+        "name" : "liam",
+        "id" : "126",
+        "email" : "liam@email.com",
+        "type" : "graduate",
+        "gradeOfAssignment1" : "90",
+        "gradeOfAssignment2" : "80",
+        "gradeOfAssignment3" : "80",
+        "gradeOfExam1" : "60",
+        "gradeOfExam2" : "80"
+      },
+      {
+        "name" : "alfie",
+        "id" : "127",
+        "email" : "tom@email.com",
+        "type" : "graduate",
+        "gradeOfAssignment1" : "90",
+        "gradeOfAssignment2" : "70",
+        "gradeOfAssignment3" : "60",
+        "gradeOfExam1" : "10",
+        "gradeOfExam2" : "10"
+      },
+      {
+        "name" : "ethan",
+        "id" : "128",
+        "email" : "ethan@email.com",
+        "type" : "undergraduate",
+        "gradeOfAssignment1" : "0",
+        "gradeOfAssignment2" : "0",
+        "gradeOfAssignment3" : "0",
+        "gradeOfExam1" : "0",
+        "gradeOfExam2" : "0"
+      },
+      {
+        "name" : "Zoey",
+        "id" : "129",
+        "email" : "Zoey@email.com",
+        "type" : "undergraduate",
+        "gradeOfAssignment1" : "100",
+        "gradeOfAssignment2" : "80",
+        "gradeOfAssignment3" : "60",
+        "gradeOfExam1" : "60",
+        "gradeOfExam2" : "80"
+      },
+      {
+        "name" : "ohio",
+        "id" : "1230",
+        "email" : "tom@email.com",
+        "type" : "undergraduate",
+        "gradeOfAssignment1" : "70",
+        "gradeOfAssignment2" : "70",
+        "gradeOfAssignment3" : "80",
+        "gradeOfExam1" : "60",
+        "gradeOfExam2" : "40"
+      },
+      {
+        "name" : "megan",
+        "id" : "1231",
+        "email" : "megan@email.com",
+        "type" : "undergraduate",
+        "gradeOfAssignment1" : "90",
+        "gradeOfAssignment2" : "90",
+        "gradeOfAssignment3" : "80",
+        "gradeOfExam1" : "50",
+        "gradeOfExam2" : "80"
+      },
+      {
+        "name" : "christin",
+        "id" : "1232",
+        "email" : "christin@email.com",
+        "type" : "undergraduate",
+        "gradeOfAssignment1" : "100",
+        "gradeOfAssignment2" : "40",
+        "gradeOfAssignment3" : "80",
+        "gradeOfExam1" : "60",
+        "gradeOfExam2" : "80"
+      },
+      {
+        "name" : "andy",
+        "id" : "1233",
+        "email" : "andy@email.com",
+        "type" : "undergraduate",
+        "gradeOfAssignment1" : "90",
+        "gradeOfAssignment2" : "70",
+        "gradeOfAssignment3" : "80",
+        "gradeOfExam1" : "60",
+        "gradeOfExam2" : "50"
+      }
+    ]
+  }
+]
